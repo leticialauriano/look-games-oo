@@ -1,7 +1,9 @@
-🅻🅾🅾🅺 🅶🅰🅼🅴🆂
-Projeto para praticar Orientação a Objetos utilizando como tema jogos de tabuleiro
+# Look Games
+<br>
 
-# Conteúdos estudados:
+Projeto para praticar Orientação a Objetos utilizando como tema jogos de tabuleiro.
+
+## Conteúdo de estudo:
 
 - Classes
 - Atributos de instância
