@@ -10,3 +10,6 @@ Projeto para praticar Orientação a Objetos utilizando como tema jogos de tabul
 - Construtor
 - Métodos especiais
 - Criando nossos métodos
+- Property
+- Aprofundando em propriedades
+- Métodos de Classe
